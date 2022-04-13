@@ -1,0 +1,68 @@
+P{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: black;
+
+}
+
+body{
+    background-color: lightgoldenrodyellow
+}
+
+img{
+    width: 50%;
+    Height: auto; 
+}
+
+.center-block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#Common{
+    text-align: center;
+    color: green;
+    text-decoration: underline;
+
+}
+
+#Resume{
+    text-align: center;
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+    border: 5px solid black;
+}
+#contact{
+    text-align: center;
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+    border: 5px solid black;
+}
+
+#numbers{
+    text-align: center;
+    color: green;
+    font-size: 25px;
+}
+
+#body{
+    text-align: center;
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#anchor{
+    text-align: center;
+    color: darkblue;
+    font-size: 25px
+}
+
+.ED{
+    font-weight: bold;
+}
